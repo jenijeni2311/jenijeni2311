@@ -3,7 +3,9 @@
 Meu nome é Jeniffer
 
 -Estou estudando no [Alura](https://www.alura.com.br)
+
 -Estou me desenvolvendo no JavaScript
+
 -Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidas
 
 ### Voce entra em contato comigo 📫
